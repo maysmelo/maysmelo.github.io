@@ -3,7 +3,7 @@ layout: default
 ---
 # Data projects - Python/SQL
 ---
-## Price Table Historical (SQL / Python / Matlibplot) - May/23
+## Price Table Historical (SQL / Python / Plotly) - May/23
 
 > Project created to support a friend by using Python to enable her to use SQL with Excel files and enable the visualization of a customer price table with multiple switches in daily and end of month levels. 
 > 
