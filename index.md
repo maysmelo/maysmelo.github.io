@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Data projects - Python/SQL/NLP
+# Data projects - Python/SQL
 ---
 ## Price Table Historical (SQL / Python / Matlibplot) - May/23
 
