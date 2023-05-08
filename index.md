@@ -7,8 +7,7 @@ layout: default
 
 > Project created to support a friend by using Python to enable her to use SQL with Excel files and enable the visualization of a customer price table with multiple switches in daily and end of month levels. 
 > 
->![image](https://user-images.githubusercontent.com/124809927/236816997-21d05a8b-ce90-4fa3-ae0d-3c69a1c72d9b.png)
->![image](https://user-images.githubusercontent.com/124809927/236817220-24e89988-3555-4e34-86d4-873deb6c620b.png)
+>![2023-05-08 15 21 47](https://user-images.githubusercontent.com/124809927/236835441-9ccc08d1-388a-42ce-bf09-6c9043029517.gif)
 
 [View code](https://github.com/maysmelo/price_table_historical)
 
